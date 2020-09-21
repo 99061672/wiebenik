@@ -1,0 +1,17 @@
+	body{
+		background-color:gray;
+	}
+
+
+	img.left {
+	float: left;
+	margin-right: 10px;
+	border-style: solid;
+}
+	img.right {
+	float: right;
+	margin-right: 10px;
+	border-style: solid;
+}
+
+

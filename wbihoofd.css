@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+	background-image: url("achtergrondmist.jpg");
+}
+
+body {
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+
+	img.left {
+	float: left;
+	width: 400px; 
+	height: 250px;
+	margin-right: 10px;
+	border-style: solid;
+}
+	img.right {
+	float: right;
+	width: 400px; 
+	height: 260px;
+	margin-right: 10px;
+	border-style: solid;
+}
+
+img.middle {
+	float: middle;
+	width: 400px; 
+	height: 300px;
+	margin-right: 10px;
+	border-style: solid;
+}
